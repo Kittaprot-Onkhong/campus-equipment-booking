@@ -6,7 +6,7 @@
 
 
 
-http://127.0.0.1:8787/api
+https://campus-equipment-booking.6731503001.workers.dev/api
 
 
 
